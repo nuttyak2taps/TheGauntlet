@@ -1,0 +1,1557 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3D0A18621C88AC9283E0B72CCCBDB11BED0989FE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "65EAFD3B180854994BD4443EAD45135FE482FC94",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "792D13EB545AE3F3EB26E0131ADE5684F28BE582",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "250A8A780D0A63E70DE7E6F97876AF475120E78F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "17ABCF392FF113675132E4D7FEE21E0813067860",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "301C0DF98962D8F14A04BAA57EBDC224C037D502",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "52F832E845B39EC5640AF82DB5314F624596EE39",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "833A20D6EF9D4DA522403D44E73D9D38DF7965E0",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8829BB82E85B9303BB957776B51A4C6A0A4B1B02",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94A15E0AD684621772F96F21181F8449DF3A73CC",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7207803F579D403B68FB245D85E17317774AE5B",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C8E793D978621755688D2DDFCA7A64FC52A477CE",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A3A212642AFC3EA2C56E2BEFE5EED418FA990FA",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "159DFBD9E76D48589024FF6C388EFCD8B0B6D72C",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F1C65FBB1550B59396B7D25C92CAAA263E9E654",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C399BBC60DF51F36592AF698C9740AF7DCF71BD5",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE15E1E22458C26494CF583D7E22296CCF3B9E7C",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A207F025258DE7F5F63CCDF11311DD116B543E9",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0557AFB39637656CE13E1D905BE2F26333BDB484",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F8D1EE38ADAA1ADE7D942014E41453D3A06461B",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F61BE153802EF36EE5C5EF0BE4C2F7E36B397DCE",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BCAA7884504B1DD9EC84EC60A594596F89A8254F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "81E1299521876ACFF3FD7756BBCBDC6F7AA1ED0E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DB985BBF6070ABE9FC754EDA9AC0B9C229E016E9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86ACE01A9BE3BD765C785AC68A5DC36C14F39D73",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4AE2101DF7F00CFAA473D9D0EF8A56AC65E38FA2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E44290CC7CD98E2C8F87865FB0421BCCC6F1072A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A92D1455D877CA77E9B2516FFFD734A0203F96D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "095065E27B4BE5DF5D85764A0403B85247DCE938",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB1B0A4B60B72A79E8420FC040D7CFC18EB64C4",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E92C81C24DBB8F58D977825C2990DA9D1E24B23",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3699843535C13E0C39FDCA413221332FD66D8721",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7DE831B2B5F4852FF676DFCDCF354BD2EE2E81B",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7E909882190DF4EB0E1E20BBE33F8F0FEFC01127",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA1896D1E2F0DA2F8A4CA7090A8811935E159D0E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4941E2BC2DCA5F3768C128325E8738E872B6381E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "78B8FF10C827705F04ED2F6DEA0F04500FE62421",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualReality/Materials/M_BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD155C99811EF4EB803A28B708DCDEA636D1B02F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualReality/Materials/M_TeleportPreviews.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A4078537D82F30A0AC387DC27E592CE0A49927F0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CB5D57A2D0360DE4A71F53C2FCE2EE036BD86939",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualReality/Materials/M_SplineArcMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3FFFEEEFE0B8A0244C2BF81FA04A5C711F18D7BB",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualReality/Materials/M_ArcEndpoint.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F3D7143AECD189340B1F35C4F32998292E46E2E5",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "25D0A8007802F66AF62B01646AE532EC39D7FCA4",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B09143253AAC4730F35DA873071B9C118A005E36",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "95F5736F370A80B246235BC77394D3ED5C8CE629",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EE0F23C49703B7690AA9D0C8F9ACE6737C5139E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualReality/Materials/GenericHMDMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4141DF4B95B41C88AE8CDBBDB7E15803D366B463",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Master_Default.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Master_RVT_Top.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Rocks_Bricks.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Rocks_.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_WaterMill_Wheel.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Barrel_Jars.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Crates.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Cart.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Shrine_Candle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "55BDC698B5CBA389B4861922C5DF9E85CAFBF30A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Windows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B3626D906B6DACF06F49C763FF1E1FB2B0842110",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Master_VertexPaint_Rooftiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5529A3C71D9EA08A9F7F342424A858E8B224636B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_RoofTile_VertexPaint.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0038B6A1D66486FBE9AE4836A990BA43302D8B60",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Master_VertexPaint_Wall.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_StoneWall_VertexPaint_3.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_StoneWall_VertexPaint.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "52871E92F02C4EFF172188DB73C407754C9CCD52",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_House_Walls_VertexPaint.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Ground_VertexPaint.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0649168D86CBC42A53FE50C53A3FCE1604A837",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Master_Flora.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Tree_Flora_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C85F5074D3444C55E64A7EE12CEC5B36962881E2",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D96ED6DECBC7D6B27531583B74C3DA1AA298F861",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Decals_Normal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB65E16754F45092D74DA5AA73A7D9203799CC95",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_TunnelProps.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E56FE5D9F862E37311637836E6070B490D4E8D4",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DAADC13324F3E356A6A9A7F6CD6E7C97FD4AC30",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Mobile_NonTransparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C38D8500AA6858A8AF19CB9983B19CFC71311BD",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Particles/M_Firefly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FF0BBF7FA530DDB61FCB7BD02FC454BBF010D05",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/M_Basic.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F57C0E6D0D04165512FCF662F343E97023252F5",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/MI_Tree.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/MI_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94A065FFE52549B855110E2E0992CB23DB1DFFC0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/M_FoliageOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DCF2186E09FE0088E458954BA5E8363394AB7923",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/M_Foliage.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ACC6F35D7E89234828C158BDB1BABC5714053779",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_02_TwoSided_2_Field.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B1919B09D622A062C003765F182FCC585E1C896",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Decals_Basecolor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99A005B7CAE81C77837B05841BB8FC2D721EBFE6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_Flowers_02.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_Flowers.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E26E0F05242575C74553CD52379BF5EB354C283A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Master_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CD40F9867AD2985CE2E2976F082608F55DEE729F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Grass_a.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_GrassField.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Grass_b.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9601683AE51598B439DDC8D82DAD9C11B544C73F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_02_TwoSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6C0486DDBFA35EE037A4F5650D9BCDE72CD255C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_PP_Sharpen.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8CFA22076CD7CCDB4B7D1DAE73C5DB3182C71324",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_WindMill_Palms.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "57533454EC2A4716C82D825E08BFD847112C9DC4",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_04.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Flora_3.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Tree_Flora_03.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Tree_Flora_04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "489289112C8273E30BFD4AE120E6CA06D2C33AEE",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Rocks_Bricks_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8380D34ED14247EF6A01C98C8432717B21C8B56",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Rock_Walls.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Rock_Walls_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF26EC69D8BB68729F4C58E0E426B15978AE0DA2",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Clouds.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3AFF4C36E926665A19E73495D700BBB4472CA4C6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_Rock_Cliffs.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BDC29E01CC96B3FE0FB03CAACFE94E6D51E92D4",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Water_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B8E4C654D0CC9778C38C7FCDD630C654ECFC7EE",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_WindTrails.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F5793396550FFDD478BED40F2E2198A0DB59E25",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_PP_ToonShading.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "731439EFE347CB7EB73747DADEA20E007CBECBE0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MI_PP_ToonShading.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C72CAA942E6EACC08400D8EED9F02FF2731A35FC",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A500A8962006AF707F9EA75EECD5CFE0F691E10F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "39F29BF4A66A3DA985F59E43170AC7F997A86614",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7FCB7274A265B92FE8D28DD457713C4EC3D21",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "29E9DC80BE71F8141A3C16D12B47239EA00A0D15",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A249DE42298DAC57CCE41B0E5341994192E1915",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/VirtualRealityBP/Maps/TownOfGrove.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79541D97E65E59F3693A091007EF622EA21277F8",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3EE7AC92591D128ABEB4F5484798C31942FC5DD",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DBEC4BED0C088A5392B412915DEBFF4C4EDD1E2",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1FEAF99EFB599CAB61ED26512DFC7931478F4828",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C27441CDC46180F40D15FCD13FCAD775BF3F3FA",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC7C969642B38BF7349390DFCC910FD3F69A5BFE",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E788D6534057B4E5C42DBBEB6FD0310E25338A7",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DB6882BF4409DDC8D52A82B3F8358BBF11BDFBD",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8A9F73FDADDC0C0471E6223D789F92B9C2DF105",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "907E15D0365F9849C8500324158860D2B1307C0C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8628A15645706211C7396B262EEEA93FA296E009",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E29E975BBF5F2DBE7A2CEE1FF0398378F5AA620E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6DC86522F7C63E165502EA7E77545AF15C2E06F7",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0CD99499C918D2BD6FBB5096EE62EF456FE03B48",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E454C3003BEDC61982CD20F8F5D2DB16459C8941",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B71DCCE46BD247680A0A0D5C4180EE7D9BF592BD",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7E78600E68C712C8F2D2B374A8CB3009DAD66B1",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2621C1D359BC293F1E236BAA04D207DCAE182B27",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "869D90810CB49E32BD8437571E6C449D8FB7B999",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B030DC360F14BF9E0C1BB4CB8EAE1B35D9A09FF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2766DB3AEDDAA40247EB02C8775DE847694D78F1",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F152749B9F3B37B0D1172A167B400205D54DA7B6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA2228D2ECD16CE229EE94CF84E8C3D1B435C3ED",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "55ABC4B28C9B6D9164ED8155EB84F622591ABE9D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F83B95A8EB8B0C8A1FA28C26FAF6F7091047021",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92DF29AF0AD9E1C92B8B000880ABE546C8A76637",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1252285333C1423C1DC6790A01A0567B0400E82",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B0D36297F60CC9CB067F590A7CB17C4ADE0471B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "653EE2C4D394D9BDC7731EE9AC252B5AFFCB173C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "873791827AC8570773D4FA2F7374B6EB5E24997F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03872576EF22CD399344EDB8773C3EA6F385554A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1325B6BC314B7E65E4A4CD16FAF61E10693AC8E3",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C2EE74C4FAD461FD7D3EC9F43486CD280E69BC8",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3E5ED545D597C773750AE421355CE4ED9294ADF4",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFE95DCCB4490DE910B04C9931010D6ABBF3FF4B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8ACE294F7370594C670223DD37B14C8EB905B66",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DA2A5E83A37A7083D4C0F830D4FC4C462AEEBE9",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2818B56FDA7ADDC23DD0830B645912814DBAD36F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "91C0904F7C840C634583592B320D2A976278143A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "719459F6DD083F3871CDA3F59B1E105671FF03BA",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8712D0A1D77F6A77B1FA0129225EAA1025CADD07",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8ED4F3502B1C7B65DE8359F64051ADA6A8324DBA",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1EC3184847B3A289226A115427DB69ABE917568",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "777A6377B220A12258630262C605FA8CA2089B8A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA61A46CF6B2BB2094CB2C24BA3FA45121866A94",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "81DBFBF9DB1B190924888340D60437A032DA2308",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2F0B167BFCC74BA9FBEF5B174090531DC630BDA0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B4F1EC8E1544B26DAB941F90D3A227D877B049B0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "037EC727623658487EA1DED58BFC25E2E022CE34",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BEAB70B6F478F2346B98E0E3BA61EAD52FD1979A",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DB00960A495B8C8AC198210CD3570EBE59EDC3F1",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA3491FD9DFBD21F5AD7BD01A16ECD642717ED9",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "972F2137ACDDDFF1AD9B1EEC03F8823FBE9AAF79",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62B92D16AC6C8C388E790DFB279892E4C29CCE78",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C5776EA17AEDABA7E234651CD0D9A6BB27893C3",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D2E18361FD5356A9678BEDF8374EDC75CDC2949B",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DF637845CDB60882B0A18EBD5F2118D9F235C55",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "38BB0EF639BF5044F8394AA7BA6C456763BDED5D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/M_Waterfall_Bottom_Foam.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9B212C932422D16FAB5B5FC216225ACCE82BB04",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/M_Basic_Caustic.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/BaseMaterials/MI_Rock.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5E843334E683AB97512FBCB20CC8314AD3763B8",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/M_Waterfall_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "13497F169934CE8A21DAB1087EC7E69F1C670C0C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/MI_Waterfall_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CCD1DE9AA33A16F9E405F9EFB01EE48D232D91B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/M_Waterfall_Extra_Foam.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/MI_Waterfall_Extra_Foam.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C59C393B48E3468FBFBEC16D86C595D69350C19B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Particles/M_Rainbow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "60C6A44E02088AA1CA2AE9D2CB5503E3E4DA8735",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Terrain/M_Terrain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1145FC6DD295A383D5A59EB386E01868BFAF743E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/EpicGamesFog/Materials/M_GodRay_MASTER.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3F44AE53A5137C8DAC1802A77B86BB99328823BA",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/EpicGamesFog/Materials/M_GodRay_Animated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5B3F12CDFBBFC3019F08FA2864CAEF91371C0B2",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Underwater/M_Underwater_River_PP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB6CC0F06242A619C1E85AE76ABBC13AAE03EE93",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Underwater/M_BoxBlur_and_ScreenDistortion_PP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C82FB4D4DAAE3111DEE22C165B0F488C05A5816",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Particles/M_BasicParticle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "45856877C0FCEDF68E1E7937A394BAD5FC96841A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/WaterDecal/M_WaterRipple_River.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E8850DCADE6425B0B6F54DA3540919BDF68E59E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_Tesselated_WaterDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3BF6F5F00F2D5D77FA4D76C9123440AF14DE2308",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_PBR_Transparent_Tesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D1B67B7395B0E8819287F052D923308ED8459BA1",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/M_Waterfall_Transparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8E968A91F2F31D385830811DB44F5FFEB3F7562F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_UNLIT_Transparent_Tesselated.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/MI_River_UNLIT_Transparent_Tesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A2CE3497A1ABAF5182AA9ABE697594E0B922348D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_UNLIT_Transparent_NonTesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5973B38BD904721EC5A44B57691C5F616D1D2972",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_UNLIT_NonTransparent_Tesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5091C59936BD809034E286E1F0AB93CEBFAC5FA",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_UNLIT_NonTransparent_NonTesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "475CBE1326A18D9FD3A2358545E5BE727589DF8F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_PBR_Transparent_NonTesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA34DCFB951A96E765485BE84D9B369302334D21",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_PBR_NonTransparent_Tesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B31870BDA986DAD55308B3AE2AA92E105F9C8243",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_PBR_NonTransparent_NonTesselated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C21B07B8E393F59110B70E1F14683A76E3FE36CE",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_NonTesselated_WaterDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB12F01AE90E60FC60CCDE4D8B54A2BC7B383E6E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_Mobile_NonTransparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9349BE888B61D117F41561D2A3310FF5E63154B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/River/M_River_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AEECD1EEA479C3837571B5F18E2346B7EFE8F5FA",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1263B8762AA0BF588C801C57068781C343A3B852",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ED5DD7C8BC7679A480C16A483CE5D8A1B0D7F586",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/WaterLine/M_WaterLine_PP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CAE8DF12F9FAE043F1C447BB4E762D7105E7E4A5",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Underwater/M_Underwater_PP.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Underwater/MI_Underwater_PP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1527256D55D3E83883E73FF5E308F8A611E9E1A5",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/WaterDecal/M_WaterRipple_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2F5BFD95A9B91BB8FCB0FFE4D036247317E76F7C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Tesselated_WaterDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E30F4C549379CBD569B79A8F0A73B6FD8DBF4518",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9FCC518E0D23F4FA922D8BB1429E74D7C46438EB",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "717E144DBC8F914A70EEEC58A3F00F5EB4F48B3A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EEEE2EE675E5FD8F8D43070FF44C63CEAF92627",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00FF45328228420798D847099B60474AC5FE1116",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B239C3C1644B68A79D59CD5B0B995F93A8DDBE8D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF2BF73C523427D03858A0806AE3D895B4FFFA16",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_UNLIT_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0CCDB6BC5A58A72642C45F977A2232F062667CBC",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_UNLIT_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3D168B2DDDA21DF2E67D15CEE3565BB185F7D07",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C252B097B51F7A3DB5115539E0212003DEA3017",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0527B561F8C3A2645A755F6A4FC2FA56573D9E93",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "81A29764B01A5A675A5234C4681A108C0956D9F0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFBA9D86EB17C3103E09BBE435C04DC9698EBC7F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_PBR_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A25F6CDFD32404B28A8AE23B6CE9C090AE9FF52E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/MI_Ocean_PBR_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "535027698CEC11CA4FF7BB36257032A1398C59BE",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_NoTessellation_Depth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "460EBA55E5B0511ADDB24D29A6E577F6052C6E25",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/M_Ocean_Mobile_Transparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF7D699B70674D9D42E5967782EC28FF0D42AF95",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapOcean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15E304F9C56BB17BF9C1536D04A50786C5A09D88",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapRiver.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapOcean.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapLake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "815CC7D1A2F3FE45CA8A4BE5753499AD86AAF7E6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapRiver.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapOcean.uasset",
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Maps/DemoMapLake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21E3585B4D233EB7C85BC1C4BC481800826FA7",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/WaterDecal/M_WaterRipple_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D51F7B3046B3E79173495518EACEF7EE7BA5A38B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_Tesselated_WaterDepth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9A56A19C64008012DE32D73B3808163F4649D219",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_PBR_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D4CB390EB39266537CF3A605E3C7904C77181C45",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_PBR_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8D466BFEAC6A412CFECFD39B24C4D44224E9293",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_UNLIT_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A055FE888B2C0CABB4E9E8531F99C6BD829D2FF",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_UNLIT_Transparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "124E6226EB846038A09383016A9E6AD1DCAA03A0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_UNLIT_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5664E2693DDC8CB867C2D1C6E8257854599C6CB6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_UNLIT_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "68F1A6128C941087093D565C909902634EF58ED7",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_UNLIT_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2B827B810773FE33AFEF0ABB308F1E251CA55EF6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_UNLIT_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1840DA8DED8953A1DC51889CF33003D912C55A7",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_UNLIT_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F22BC3F068E79E61B47F842DE3E3BA6829220824",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_UNLIT_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6A296D0C2DA8B901A74C7B5DF96B3812BD6A1332",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_PBR_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BB073A66F0DABABC298F94FC02C91A5D538F595",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_PBR_Transparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C79BA91E9B8B5F1485CBD5F7D2569BA88CCCA3BF",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_PBR_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15A10307CF20964EAD7E02AE74B3EC543471ECE9",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_PBR_NonTransparent_Tessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "960CFA27F7933B63AA27FAE2ED3D15D44FC5CE65",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_PBR_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E470B6ED025B1C97C242A78E8F3FDD42BCEF81A2",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/MI_Lake_PBR_NonTransparent_NonTessellated.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "178E5137A2C8DD4877B1D2037C4121B93A1144FE",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_NoTessellation_Depth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB1F9E6EEB221BA808E0B9E33CADC6F77B8B0578",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_Mobile_Transparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "53B88BAA71FF86B34672E8BC05AF604314DD90CD",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Lake/M_Lake_Mobile_NonTransparent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3531DF6FAB76F456857A6879E4DBA30DDFE24AB8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BAB0C3DBE4C96E1E71CC4DEAD97A7F893A7689A5",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/Landscape/MM_RVT_Landscape.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC95690714CBCADD3D03FCD51FDED626FFAA9CFD",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_Top_planar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFB903C09913E7619163C06782AE3B0976CFA09",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_PP_TS_InkOnly.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF93A84DE0F9D0DBDF58424A3A067CC615B64D2D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Materials/MM_PP_ToonOutilnes.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "75BC6C60E49767D8DF3B1B6C4F2C4386EB9C4029",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Overview.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "87C3A377D4952B1FB6BF2040D534A8C24F83F411",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A35238AC90E2FB658F7010AEA52F6892861D851C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Rock.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98EC06940674B2297D46E78DD90926102D1D1EF2",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC85704709550DBAB9D4217636F8C06A539E9B1D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "18AD00E61299BEF426CDDAAC32315DAC34EA9C6B",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Door.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D00C76AEF8D87A004F0F1DD28E562EEF145C36C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Props/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79EC9394F7395935FB7A15ECF8358BCCB16B586F",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FFE120A0298A9522A4EA663C068FDEB0B7D5C9C9",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC800E9D0F43072666B54BB7E8D44D76ADE8B1E6",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99931BC010942C7D9F6F7AED2EA58B047A32AC8C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/Materials/M_ENV_Basic_Atlas_Actual_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72F617413EB55183CF3858B4046100CD1AAA7322",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/WaterCaustic/M_WaterCaustic.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A4F44DC5772E22CA221C9ABDF95E85B8ACFBC533",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Waterfall/M_Waterfall_Splash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2729A737E4B201E1818F4B55325E226FAACAE466",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/WaterDecal/M_WaterRippleDecal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "07F462CADB8DA9F5FE3220506FA4DB279D47F951",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Water/Ocean/NewMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98FB9067FBB3DB3EDC1D47277D97C7B2CE89E0B1",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Underwater/M_BoxBlur_PP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D585FBC1DAF6F7DF43F0F2908664A7F093C7F9E",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/Materials/Fog/M_MultiColoredFog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "035D1595FE23AEC94465782611022F573C47AEB0",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/CartoonWaterShader/EpicGamesFog/Materials/M_FogSheet_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A3FE7CAAD17925BC6011CDA31ED219AB9AB4E67",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C33EB99A0B82AC4A2A1CEA0B73D615162FC78C75",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "043D619BFB7C6319ED07B8CF7D93AFF2E4746455",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "63C7AEE6254E5AA050D7F87EDB19C2D7B86B0E03",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1D5EBCF096BEDA6C16D3DA713681CF041D7FF16C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E537D5411DF674281581030C103D6F3D5369DAED",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B19188AF30F69317FD6A5212ECF3EC6471E4C77",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62CB5FA21E874A721089DE2CB902F4278D1FC8F9",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3057513191226601A0B2496ECBCAD7C43FE8AB12",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0191F705ECDE9FD895E09D04C5F076111E9F7A7A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8FF227F9B6ECB6E8DDB2757BA19DB952A20CA9C",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A93011C7AF9E4BE5FF27229527132DB01C82D5A",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3EB6D856187CAD564AAECD50FBDA26A488AD6E71",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "57D33CAFEF843F07B3E30D32CBAF552593B347AC",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "35B6DB0EB0F8178B43C84FDA38C121D30E5ABE7D",
+			"Assets": [
+				"../../../../../../Users/nuttyak2taps/Desktop/The Gauntlet/TheGauntlet/Content/StylizedProvencal/Maps/Main.uasset"
+			]
+		}
+	]
+}
